@@ -8,6 +8,8 @@ Features
 **Search Functionality**: Users can search for widgets across all categories.
 **State Management**: The application uses Redux to manage the state of categories and widgets.
 
+Deployment Link - **[https://dashboard-v2-app.vercel.app/]**
+
 
 Technologies Used
 **React**: Frontend library for building user interfaces.
