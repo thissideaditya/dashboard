@@ -1,0 +1,69 @@
+{
+    "categories": [
+      {
+        "id": 1,
+        "name": "CSPM Executive Dashboard",
+        "widgets": [
+          {
+            "id": 1,
+            "name": "Widget 1",
+            "text": "Random Text for Widget 1"
+          },
+          {
+            "id": 2,
+            "name": "Widget 2",
+            "text": "Random Text for Widget 2"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "CWPP Dashboard",
+        "widgets": [
+          {
+            "id": 1,
+            "name": "Widget 1",
+            "text": "Random Text for Widget 1"
+          },
+          {
+            "id": 2,
+            "name": "Widget 2",
+            "text": "Random Text for Widget 2"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Image",
+        "widgets": [
+          {
+            "id": 1,
+            "name": "Image 1",
+            "text": "Random Image for Image 1"
+          },
+          {
+            "id": 2,
+            "name": "Image 2",
+            "text": "Random Image for Image 2"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Ticket",
+        "widgets": [
+          {
+            "id": 1,
+            "name": "Ticket 1",
+            "text": "Random Ticket for Ticket 1"
+          },
+          {
+            "id": 2,
+            "name": "Ticket 2",
+            "text": "Random Ticket for Ticket 2"
+          }
+        ]
+      }
+    ]
+  }
+  

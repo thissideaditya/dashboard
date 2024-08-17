@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.pDiv {
+    width: calc(800% - 1px);
+    animation: slider 40s linear infinite;
+  }
+  
+  .transDiv {
+    width: 50%;
+    justify-content: space-around;
+  }
+  
+  @keyframes slider {
+    0% {
+      transform: translateX(0);
+    }
+    100% {
+      transform: translateX(-50%);
+    }
+  }
